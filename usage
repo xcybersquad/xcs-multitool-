@@ -1,0 +1,19 @@
+cd ~
+git clone https://github.com/YOUR_USERNAME/xcs-multitool.git
+cd xcs-multitool
+
+(Replace YOUR_USERNAME with your actual GitHub username.)
+
+
+
+cp /path/to/xcs_multitool.sh .
+
+
+
+Make it executable:
+
+chmod +x xcs_multitool.sh
+
+
+./xcs_multitool.sh
+
